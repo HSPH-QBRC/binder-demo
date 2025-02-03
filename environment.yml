@@ -1,0 +1,7 @@
+name: netzoo_colab
+channels:
+  - conda-forge
+  - netzoo
+dependencies:
+  - python=3.10
+  - netzoopy
